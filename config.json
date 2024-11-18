@@ -1,0 +1,10 @@
+{
+    "mode": "client or server",
+    "password": "password",
+    "serverHost": "host",
+    "serviceHost": "localhost",
+    "serverPublicPort": 51234,
+    "serverClientPort": 51111,
+    "servicePort": 51234,
+    "clientsReserve": 5
+}
