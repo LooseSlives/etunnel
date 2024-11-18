@@ -3,7 +3,7 @@ build command: go build .
 Tunneling raw tcp traffic from remote pc to your behind NAT local service and back.
 One server|client - one servicePort
 
-USAGE: etunnel path_to_config.json
+USAGE: rtunnel path_to_config.json
 
 REMOTE-PC <--> |ServerPublicPort SERVER ServerClientPort| <- (NAT) -> |CLIENT| <--> |servicePort SERVICE|
 
